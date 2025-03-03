@@ -7,11 +7,11 @@ cd artists_who_can_sing
 ```
 2. Download file zip menggunakan wget
 ```bash
-wget --no-check-certificate 'https://drive.google.com/file/d/1lV1HVmPTY_BOAK6ToXymRu7V5eVfR0ut/view?usp=sharing' -O tutorial.zip
+wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1lV1HVmPTY_BOAK6ToXymRu7V5eVfR0ut' -O tutorials.zip
 ```
 3. Unzip file ke dalam folder baru bernama "singing_tutorials"
 ```bash
-unzip tutorial.zip -d singing_tutorials
+unzip tutorials.zip -d singing_tutorials
 ```
 4. Menampilkan semua list file
 ```bash
