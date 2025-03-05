@@ -39,5 +39,5 @@ touch ransom.moolah
 ```
 10. Matikan program
 ```bash
-Control + C
+kill (PID)
 ```
